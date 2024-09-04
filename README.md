@@ -19,8 +19,5 @@ An interactive 3D PCA projection is included in the notebook, which allows for a
 
 **Note:** If you are viewing this on GitHub, please download the notebook and run it in a local environment or a compatible platform like [Deepnote](https://deepnote.com) or [Jupyter Notebook](https://jupyter.org) to interact with the 3D plot.
 
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+## How to use
+The .ipynb is already made so just download and have a look. Please also check out the html file to see the 3d graph as github was not able to display it.
